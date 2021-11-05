@@ -7,4 +7,5 @@ Inputs: Date, First Name, Last Name, Start Time, End Time, Total Hours Worked.
 
 Add to the list under firstNameSelection and lastNameSelection to add to the combo box.
 
-To do in future: add csv file to store names.
+To do in future: - add csv file to store names
+                 - change name from main.py to timesheet.py 
