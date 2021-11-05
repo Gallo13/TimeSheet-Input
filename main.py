@@ -8,13 +8,7 @@
 # This is a python program to allow input of the person, the date, start time and end time and it will
 # # calculate total hours worked and save it to an excel file in local machine
 
-'''
-TO DO:
-- make name selection with combo box (dropdown) to select names or just be able to write
-    and store a new name
-- save newly created workbook in new workbook section
-- add new excel workbook to combo box permanantely
-'''
+# To do: make first names and last names into csv files to access instead of manual list in firstNameSelection and lastNameSelection
 
 import wx
 import wx.adv  # DatePickerCtrl and TimePickerCtrl
